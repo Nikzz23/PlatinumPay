@@ -262,10 +262,13 @@ https://github.com/Nikzz23/PlatinumPay/assets/114866835/53a50124-5187-4226-89fd-
 ![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/64db6bcd-9fa8-45be-bc6b-a3d6388aa1cf)
 ![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/101fb10b-2ff2-432a-8eb0-cde1398b4201)
 
-
 ### Log Out
 ![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/a8bf27f1-f146-4dcb-91e1-48056b5881dd)
 ![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/2f12b79c-b438-475f-af9a-63cad8880a6a)
 
+## Learning Reflection
+(discuss what you learned during the final period. Discuss the challenges you encountered and how you solved them. Discuss what you think can still be improved in your semi-final output and skills that need to improve relative to SQL and Python)
 
+In the finals period, I learned how to make UI using pyqt6. Sir help us how to install the pyqt6 and how to use the designer so that we can make the UI. He also showed how to call the object name in the designer to function and how to connect MySQL and pyqt6. 
 
+The system I made still has its flaws like, when inputting the user's password, the password can be seen and not like in an asterisk form. The Design for the history section is still unfinished due to the limited time while this system still has many functions that need to be addressed and improved. It can still be used effectively.
