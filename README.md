@@ -172,7 +172,7 @@ CREATE TABLE tblUserIDTracker (
 ## Python Source Code
 * Link: https://github.com/Nikzz23/PlatinumPay/blob/564f15df997e00941e8ced7f70b314f1cdbc715c/Python/realmain.py 
 
-## Executing the system
+## Executing the system 
 
 ### Sign In and User Dashboard
 https://github.com/Nikzz23/PlatinumPay/assets/114866835/9cf75b60-5dc6-40fd-bbf5-d5ae3cdd9508
@@ -203,4 +203,69 @@ https://github.com/Nikzz23/PlatinumPay/assets/114866835/72ce5494-4bcf-4073-a5ff-
 
 ### Log Out
 https://github.com/Nikzz23/PlatinumPay/assets/114866835/53a50124-5187-4226-89fd-3494c46baae1
+
+## System Photos
+
+### Sign In and User Dashboard
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/3d00f949-5561-4749-9b60-0ccd2d3b5c6b)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/9d3b616d-6198-47d8-8d62-04a466794ad2)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/5dd4a0d6-aec2-49ac-8d39-2f81db3dcaf9)
+
+
+### Sign Up and User Dashboard
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/f6034ec1-130e-4643-be7d-7f1bf10170f3)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/9cff5d4b-e472-42ca-b091-f7ba5ebe3f79)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/e22ac888-3770-4b66-a7bd-bacb85d887bb)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/9572e7e1-90a4-46c7-8122-c914a8a3e82d)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/75380013-73af-44a6-807c-66ed2add5808)
+
+
+### Deposit
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/8f924ed6-57de-49dc-9a68-64ff4dfaac29)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/0228cf80-c749-4dfc-8055-d5b707c1635c)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/35c43337-6fd2-4942-8156-07d8e8e400b4)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/063cf475-0e3c-48ac-97b4-e141c8ba711e)
+
+
+### Transfer
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/7dc7cee4-1185-474d-b616-5a293931b9f6)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/0b1e030b-e770-4a64-8105-53ca29fd15c4)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/f5760cdf-2f55-4b0a-bf0e-196aad62a184)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/8d0cfa3e-39cf-4081-9bc1-69f5dbd8f873)
+
+
+### Withdraw
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/6b472e54-d235-4acf-b37f-97bc0c58f01a)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/b9048139-6e0c-4fec-9586-3035c2a569de)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/4e8c42a3-a46f-4930-8186-e1e11d714d68)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/829adbd5-aa20-4a66-bc96-a7383043bab8)
+
+
+### History
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/97763f3f-25df-4ae3-80f4-1135b9d33e5d)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/0505f779-5284-47fa-a782-1a0ae8d7871a)
+
+
+### Account Settings
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/97763f3f-25df-4ae3-80f4-1135b9d33e5d)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/40fb016e-aeb8-4ec7-8446-ecd9fc988371)
+
+
+### Account Settings / Edit Personal Information
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/bb642670-4cf6-4788-94ab-84939cb07b57)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/e63e03e0-9260-468f-a77c-cfdd6009e296)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/1827cdac-ee5e-4a97-aab9-cd4151d2759e)
+
+
+### Account Settings / Delete Account
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/bb642670-4cf6-4788-94ab-84939cb07b57)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/64db6bcd-9fa8-45be-bc6b-a3d6388aa1cf)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/101fb10b-2ff2-432a-8eb0-cde1398b4201)
+
+
+### Log Out
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/a8bf27f1-f146-4dcb-91e1-48056b5881dd)
+![image](https://github.com/Nikzz23/PlatinumPay/assets/114866835/2f12b79c-b438-475f-af9a-63cad8880a6a)
+
+
 
