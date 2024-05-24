@@ -61,7 +61,7 @@ related_user_id varchar(20) not null
 
 <div align="center">
 	<img src="https://github.com/Nikzz23/PlatinumPay/assets/114866835/a0d2c465-2fe9-49ba-aa91-9f1357642d03">
-  <p>table5. Users number of ID tracker</p>
+  <p>table5. User number ID tracker</p>
 </div>
 
 * tblUserIDTracker (
@@ -70,7 +70,7 @@ related_user_id varchar(20) not null
 );
 
 ## MySQL
-* Link: 
+* Link: https://github.com/Nikzz23/PlatinumPay/blob/564f15df997e00941e8ced7f70b314f1cdbc715c/MySQL/userdatabase.sql
 ```
 # CREATING DATABSE
 Create Database userData;
@@ -170,6 +170,11 @@ CREATE TABLE tblUserIDTracker (
 ```
 
 ## Python Source Code
-* Link:
+* Link: https://github.com/Nikzz23/PlatinumPay/blob/564f15df997e00941e8ced7f70b314f1cdbc715c/Python/realmain.py 
 
 ## Executing the system
+
+
+
+
+
