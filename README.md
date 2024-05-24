@@ -174,7 +174,33 @@ CREATE TABLE tblUserIDTracker (
 
 ## Executing the system
 
+### Sign In and User Dashboard
+https://github.com/Nikzz23/PlatinumPay/assets/114866835/9cf75b60-5dc6-40fd-bbf5-d5ae3cdd9508
 
+### Sign Up and User Dashboard
+https://github.com/Nikzz23/PlatinumPay/assets/114866835/b45bfb7f-bf5a-41df-bcb1-58da5c45790f
 
+### Deposit
+https://github.com/Nikzz23/PlatinumPay/assets/114866835/1c1f308b-4c18-4ea5-a4a2-778d4f47e06b
 
+### Transfer
+https://github.com/Nikzz23/PlatinumPay/assets/114866835/9b9b4fec-1f6e-458a-ab35-50e37a8371f8
+
+### Withdraw
+https://github.com/Nikzz23/PlatinumPay/assets/114866835/508b2c24-4c7a-4c48-ac8d-5e99604f5c42
+
+### History
+https://github.com/Nikzz23/PlatinumPay/assets/114866835/80747107-07d8-421f-8aaf-e0cb063f7d3a
+
+### Account Settings
+https://github.com/Nikzz23/PlatinumPay/assets/114866835/d0297cf6-bea0-40e8-9678-e93b5701dbf8
+
+### Account Settings / Edit Personal Information
+https://github.com/Nikzz23/PlatinumPay/assets/114866835/4b8f8710-3361-43c6-8596-d83208b8f431
+
+### Account Settings / Delete Account
+https://github.com/Nikzz23/PlatinumPay/assets/114866835/72ce5494-4bcf-4073-a5ff-45d0448990d3
+
+### Log Out
+https://github.com/Nikzz23/PlatinumPay/assets/114866835/53a50124-5187-4226-89fd-3494c46baae1
 
